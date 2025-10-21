@@ -63,7 +63,7 @@ class UsersController extends Controller
 
 #### Usage without Dependency Injection
 
-If you need a repository without dependency injection you can use the static method like this:
+If you need a repository without dependency injection you can use the static method like:
 
 ``` php
 	/**
